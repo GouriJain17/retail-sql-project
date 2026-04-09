@@ -79,7 +79,7 @@ Finds customers who have never placed an order.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - SQL (MySQL / RDBMS)  
 - Relational Database Concepts  
