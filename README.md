@@ -92,7 +92,7 @@ Finds customers who have never placed an order.
 ```
 Online-Retail-Sales-Analysis
 │
-├── retail_project.sql        # SQL script for database creation & queries
+├── retail_project.sql   # SQL script for database creation & queries
 ├── er_diagram.png       # Entity Relationship Diagram
 └── README.md            # Project documentation
 ```
