@@ -92,7 +92,7 @@ Finds customers who have never placed an order.
 ```
 Online-Retail-Sales-Analysis
 │
-├── retail_db.sql        # SQL script for database creation & queries
+├── retail_project.sql        # SQL script for database creation & queries
 ├── er_diagram.png       # Entity Relationship Diagram
 └── README.md            # Project documentation
 ```
@@ -102,7 +102,7 @@ Online-Retail-Sales-Analysis
 ##  How to Run the Project
 
 1. Open MySQL Workbench or any SQL client  
-2. Run the SQL script (`retail_db.sql`)  
+2. Run the SQL script (`retail_project.sql`)  
 3. Execute queries step by step  
 4. Analyze the outputs for insights  
 
