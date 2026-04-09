@@ -1,6 +1,6 @@
-# 📊 Online Retail Sales Analysis Database
+#  Online Retail Sales Analysis Database
 
-## 📌 Project Overview
+##  Project Overview
 The **Online Retail Sales Analysis Database** is a SQL-based project designed to analyze e-commerce sales data and generate meaningful business insights such as:
 
 - Revenue analysis  
@@ -13,7 +13,7 @@ This project demonstrates the use of relational database design, SQL queries, jo
 
 ---
 
-## 🗂️ Database Schema
+##  Database Schema
 
 ### 1. Customers
 - customer_id (Primary Key)  
@@ -40,7 +40,7 @@ This project demonstrates the use of relational database design, SQL queries, jo
 
 ---
 
-## 🧩 Entity Relationship Diagram (ERD)
+##  Entity Relationship Diagram (ERD)
 
 The ER diagram is included in this repository and represents relationships between tables:
 
@@ -50,26 +50,26 @@ The ER diagram is included in this repository and represents relationships betwe
 
 ---
 
-## 🚀 Key Features & Queries
+##  Key Features & Queries
 
-### 🔹 Top Selling Products
+###  Top Selling Products
 Identifies products with the highest quantity sold.
 
-### 🔹 Most Valuable Customers
+###  Most Valuable Customers
 Finds customers who spent the most money.
 
-### 🔹 Monthly Revenue Analysis
+###  Monthly Revenue Analysis
 Calculates revenue generated per month.
 
-### 🔹 Category-wise Sales
+###  Category-wise Sales
 Analyzes performance of different product categories.
 
-### 🔹 Inactive Customers
+###  Inactive Customers
 Finds customers who have never placed an order.
 
 ---
 
-## 📊 Sample Insights
+##  Sample Insights
 
 - Watch is the top-selling product  
 - Ravi is the highest spending customer (₹71,000)  
@@ -87,7 +87,7 @@ Finds customers who have never placed an order.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Online-Retail-Sales-Analysis
@@ -99,7 +99,7 @@ Online-Retail-Sales-Analysis
 
 ---
 
-## 📌 How to Run the Project
+##  How to Run the Project
 
 1. Open MySQL Workbench or any SQL client  
 2. Run the SQL script (`retail_db.sql`)  
@@ -108,7 +108,7 @@ Online-Retail-Sales-Analysis
 
 ---
 
-## 📈 Learning Outcomes
+##  Learning Outcomes
 
 - Database design and normalization  
 - Writing SQL queries with joins  
